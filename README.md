@@ -1,4 +1,4 @@
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristianTortoza&repo=github-readme-stats)](https://github.com/CristianTortoza/github-readme-stats)
 <div align="center" >
   <img height="23em"  src="https://komarev.com/ghpvc/?username=CristianTortoza&label=Profile%20views&color=055FE1&style=flat" alt="CristianTortoza" />
 </div>
