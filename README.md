@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianTortoza&theme=dark&show_icons=true)
-
 <div align="center" >
   <img height="23em"  src="https://komarev.com/ghpvc/?username=CristianTortoza&label=Profile%20views&color=055FE1&style=flat" alt="CristianTortoza" />
 </div>
