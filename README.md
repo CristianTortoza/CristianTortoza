@@ -1,6 +1,6 @@
 <div align="center" >
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CristianTortoza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- 
+  <img height="23em"  src="https://komarev.com/ghpvc/?username=CristianTortoza&label=Profile%20views&color=055FE1&style=flat" alt="CristianTortoza" />
 </div>
 
 
