@@ -11,22 +11,7 @@
 
 
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Cris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" width="40" height="30" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" />
-  <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cris-Bs"  height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" width="40" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img align="center" width="40" height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" />
-  <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" />
-  <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" />
-  <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" />
-  <img align="right" alt="pika-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/77/29/ff/7729ff89932dc1d7eb6148ad57223edc.png">
-</div>
-  
-  ##
+
  
 <div> 
   <a href = "mailto:cristianurieltortoza@gmail.com
