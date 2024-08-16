@@ -1,7 +1,4 @@
-<div align="center" >
 
-
-</div>
 
 
 ##  Hola! 👋 👋 👋 
@@ -12,7 +9,6 @@
 
 
 <div style="display: inline_block" align="center"><br>
-/>
   <img align="right" alt="pika-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/77/29/ff/7729ff89932dc1d7eb6148ad57223edc.png">
 </div>
  
