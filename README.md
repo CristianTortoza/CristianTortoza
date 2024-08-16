@@ -9,7 +9,7 @@
 
 
 <div style="display: inline_block" align="center"><br>
-  <img align="right" alt="pika-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/77/29/ff/7729ff89932dc1d7eb6148ad57223edc.png">
+  <img align="right" alt="pika-pic" height="150" style="border-radius:50px;" src="https://res.cloudinary.com/dwb91nt6s/image/upload/v1723781741/Dise%C3%B1o_sin_t%C3%ADtulo_11_gqwjy9.webp">
 </div>
  
 <div> 
