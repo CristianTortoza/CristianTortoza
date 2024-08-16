@@ -4,7 +4,7 @@
 </div>
 
 
-##  Hola! 👋 Soy Cristian Tortoza ! Desarrollador web Full-Stack MERN & Mobile App 
+##  Hola! 👋 Soy Cristian Tortoza ! Desarrollador web Full-Stack
 
 
 
